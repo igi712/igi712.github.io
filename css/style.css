@@ -139,8 +139,8 @@ footer {
 }
 h2 {
   
-    text-align: center;
-    color: brown;
+    text-align: left;
+    color: rgb(45, 1, 87);
     text-justify: inter-word;
     word-wrap: break-word;
 
