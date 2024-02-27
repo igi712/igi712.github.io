@@ -25,8 +25,8 @@ nav ul {
   transition: all 0.4s;
 }
 nav .logo {
-  font-family: "Srisakdi", cursive;
-  letter-spacing: 3px; /*space antar char*/
+  font-family: "Tahoma";
+  letter-spacing: 1px; /*space antar char*/
 }
 
 nav ul li a {
