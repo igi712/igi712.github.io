@@ -100,7 +100,7 @@ nav ul li a:hover {
   .iframe {
    
   width: 100%;
-  height: auto;  
+  height: 100%; 
   display: block;
   margin-left: auto;
   margin-right: auto;
@@ -188,4 +188,12 @@ p {
         /* transform: translateX(0); */
     }
   }
-
+  hr {
+    display: block;
+    margin-top: 0.5em;
+    margin-bottom: 0.5em;
+    margin-left: auto;
+    margin-right: auto;
+    border-style: inset;
+    border-width: 1px;
+}
